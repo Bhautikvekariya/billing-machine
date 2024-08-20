@@ -7,7 +7,7 @@ const Index = () => {
         <div className="overlay"></div>
         <div className="header-content container">
           <h1 className="header-title">
-            <span className="up">HI!</span>
+            <span className="up">Hello</span>
             <span className="down">I am Shopkeeper</span>
           </h1>
           <p className="header-subtitle">Businessperson </p>
